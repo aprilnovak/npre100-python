@@ -5,8 +5,7 @@ programming language. This material was developed for NPRE 100 at the
 University of Illinois at Urbana-Champaign by Dr. Madicken Munk (now
 at Oregon State University) and Dr. April Novak.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aprilnovak/2023-10-12-npre100/HEAD)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aprilnovak/npre100-python/HEAD)
 
 Click on the button above to get started! Once your binder has launched, click
 on the notebook `intro-to-python.ipynb` to start the lesson. 
